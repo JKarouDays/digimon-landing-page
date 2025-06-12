@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fdfdfd;
+  }
+  
+  h2, h3 {
+    color: #004aad;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }  
